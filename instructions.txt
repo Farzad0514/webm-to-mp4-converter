@@ -1,0 +1,10 @@
+Step 1:
+download and unzip ffmpeg
+
+
+Step 2:
+add the above folder in the window's environmental path
+
+
+Step 3:
+run the script
